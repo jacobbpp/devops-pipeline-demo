@@ -108,9 +108,6 @@ total 4
 - Commit the change.
 - Return to the **Actions** tab. A new run automatically starts.
 
-> **Instructor note:**  
-> “This shows that any change to the repo triggers our pipeline.”
-
 ---
 
 ## Step 7 – Explain Jobs vs Steps
