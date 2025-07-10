@@ -1,0 +1,25 @@
+name: Demo Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Print Hello Message
+        run: echo "Hello from GitHub Actions!"
+
+      - name: Display Date
+        run: date
+
+      - name: Run Multi-Line Script
+        run: |
+          echo "Listing current directory:"
+          ls -l
