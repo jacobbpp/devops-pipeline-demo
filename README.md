@@ -110,7 +110,7 @@ total 4
 
 ---
 
-## Step 7 – Explain Jobs vs Steps
+## Step 7 – Jobs vs Steps
 
 **Job:** A collection of steps that run on a single virtual machine.
 
