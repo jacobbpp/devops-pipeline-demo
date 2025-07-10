@@ -1,4 +1,4 @@
-# Instructor Script – Step-by-Step Demo
+# Step-by-Step Demo of Pipelines
 
 This guide shows how to create a basic pipeline using GitHub Actions from scratch.
 
